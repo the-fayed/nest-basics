@@ -1,4 +1,5 @@
 {
+  "include": ["**/**/*"],
   "compilerOptions": {
     "module": "commonjs",
     "declaration": true,
